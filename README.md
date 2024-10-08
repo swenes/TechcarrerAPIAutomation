@@ -22,7 +22,7 @@ Bu proje, [Petstore API](https://petstore.swagger.io/) üzerinde kullanıcı iş
 1. **Proje Klonlama**:
 
    ```bash
-   git clone [https://github.com/kullanici_adi/proje_adi.git](https://github.com/swenes/TechcarrerAPIAutomation.git)
+   git clone https://github.com/swenes/TechcarrerAPIAutomation.git
 ## Gereksinimler
 
 - Java 8 veya üzeri
