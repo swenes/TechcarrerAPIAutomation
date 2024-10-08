@@ -52,3 +52,7 @@ Bu proje, [Petstore API](https://petstore.swagger.io/) üzerinde kullanıcı iş
 ### 5. Kullanıcı Silme
 - **Metod**: `deleteUser()`
 - **Açıklama**: Var olan bir kullanıcıyı siler.
+
+![allureAutomation2](https://github.com/user-attachments/assets/d87bf76b-c4dd-440e-b86d-2ac1ecac2445)
+![allureAutomation](https://github.com/user-attachments/assets/e1cad4c6-a22f-4932-86d8-0eb72e4a02d1)
+
